@@ -140,8 +140,18 @@ The analysis identifies **key revenue drivers, underperforming areas, and strate
 
 ---
 
-# 👨‍💻 Author
+# 👤 Author
 
-**[Your Name]**
+**Himanshu Patle**  
 
-Aspiring **Data Analyst | SQL | Python | Business Intelligence**
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_imanshu_01/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-patle-2b563730b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imanshu-01)
+
+---
+
+# 📜 License
+This project is intended for **Educational Purposes Only**.
+All data and analysis are intended for learning and demonstration.
+
+© 2026 Himanshu Patle. All rights reserved.
