@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+<img width="1419" height="736" alt="Image" src="https://github.com/user-attachments/assets/40efaa8a-6111-4b95-8009-7083a2facf1a" />
+
 This project analyzes **Superstore retail sales data** to uncover business insights related to sales performance, profitability, customer segments, and regional trends.
 
 The analysis combines **SQL for business-driven data querying** and **Python for exploratory data analysis (EDA) and visualization**, delivering insights that can support data-driven retail decision-making.
